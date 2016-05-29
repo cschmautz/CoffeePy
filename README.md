@@ -5,9 +5,9 @@ The coffee.fund repository is for the contributors of coffee.fund who support no
 
 	-	An entry and record system for organizational coffee fund contributions.
 	-	An entry and record system for organizational coffee fund inventory.
-	-	A one-stop-shop for coffee fund managers to quickly order from a variety of 	online coffee distributors.
-	-	A library of compiled coffee-related facts, figures, and surveys to keep 		coffee fund members informed on why the 'best part of waking up' is not 		Folgers in your cup.
-	-	Aggregate data about coffee consumption and costs over time, preffered 			vendors, quality of vendors, and quality of coffee funds at organizations.
+	-	A one-stop-shop for coffee fund managers to quickly order from a variety of online coffee distributors.
+	-	A library of compiled coffee-related facts, figures, and surveys to keep coffee fund members informed on why the 'best part of waking up' is not Folgers in your cup.
+	-	Aggregate data about coffee consumption and costs over time, preffered vendors, quality of vendors, and quality of coffee funds at organizations.
 
 We are approaching critical mass in the organization for which the coffee.fund idea originates - a peak of principle in which we question the status quo of quality. We are asking the question 'What does this company do for us, for what we do for this company?' and more than not, we feel that quality is lacking.
 
